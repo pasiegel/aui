@@ -14,7 +14,7 @@ You can try it first with a `virtualbox`
 ## How to get it
 ### With git
 - Get list of packages and install git: `pacman -Sy git`
-- get the script: `git clone git://github.com/helmuthdu/aui`
+- get the script: `git clone git://github.com/pasiegel/aui`
 
 ### Without git
 - get the script: ` wget https://github.com/pasiegel/aui/tarball/master -O - | tar xz`
