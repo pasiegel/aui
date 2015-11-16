@@ -3632,9 +3632,6 @@ do
         install_ssh
         install_nfs
         install_samba
-        install_tlp
-        enable_readahead
-        install_zram
         install_video_cards
         install_xorg
         font_config
