@@ -3596,7 +3596,6 @@ language_selector
 configure_sudo
 select_user
 choose_aurhelper
-automatic_mode
 
 if is_package_installed "kdebase-workspace"; then KDE=1; fi
 
