@@ -1,4 +1,4 @@
-### Project no longer maintained
+
 
 # Archlinux U Install
 
@@ -17,9 +17,7 @@ You can try it first with a `virtualbox`
 - get the script: `git clone git://github.com/helmuthdu/aui`
 
 ### Without git
-- get the script: ` wget https://github.com/helmuthdu/aui/tarball/master -O - | tar xz`
-    - an alternate URL (for less typing) is ` wget http://bit.ly/NoUPC6 -O - | tar xz`
-    - super short `wget ow.ly/wnFgh -O aui.zip`
+- get the script: ` wget https://github.com/pasiegel/aui/tarball/master -O - | tar xz`
 
 ## How to use
 - FIFO [system base]: `cd <dir> && ./fifo`
@@ -68,6 +66,3 @@ You can try it first with a `virtualbox`
 - Install Games [HoN, World of Padman, Wesnoth...]
 - Install Fonts [Liberation, MS-Fonts, Google-webfonts...]
 - Install and configure Web Servers
-- Many More...
-
-If you like my work, please consider a small Paypal donation at helmuthdu@gmail.com :)
