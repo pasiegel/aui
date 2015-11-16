@@ -1,10 +1,9 @@
 
 
-# Archlinux U Install
+# Archlinux Ultimate Install
 
-Install and configure archlinux has never been easier!
+Install and configure archlinux
 
-You can try it first with a `virtualbox`
 
 ## Prerequisites
 
