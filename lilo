@@ -29,7 +29,7 @@ fi
 #WELCOME {{{
 welcome(){
   clear
-  echo -e "${Bold}Welcome to the Archlinux U Install script by helmuthdu${White}"
+  echo -e "${Bold}Welcome to the Archlinux U Install script by pasiegel${White}"
   print_line
   echo "Requirements:"
   echo "-> Archlinux installation"
@@ -38,7 +38,7 @@ welcome(){
   print_line
   echo "Script can be cancelled at any time with CTRL+C"
   print_line
-  echo "http://www.github.com/helmuthdu/aui"
+  echo "http://www.github.com/pasiegel/aui"
   print_line
   echo -e "\nBackups:"
   print_line
