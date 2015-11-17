@@ -809,7 +809,7 @@ check_trim
 pacman -Sy
 while true
 do
-  print_title "ARCHLINUX ULTIMATE INSTALL - https://github.com/helmuthdu/aui"
+  print_title "ARCHLINUX ULTIMATE INSTALL - https://github.com/pasiegel/aui"
   echo " 1) $(mainmenu_item "${checklist[1]}" "Select Keymap")"
   echo " 2) $(mainmenu_item "${checklist[2]}" "Select Editor")"
   echo " 3) $(mainmenu_item "${checklist[3]}" "Configure Mirrorlist")"
