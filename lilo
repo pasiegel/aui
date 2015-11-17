@@ -199,8 +199,8 @@ select_user(){
           ;;
         3)
           package_install "git"
-          read -p "Enter your github username [ex: helmuthdu]: " GITHUB_USER
-          read -p "Enter your github repository [ex: aui]: " GITHUB_REPO
+          read -p "Enter your github username [ex: pasiegel]: " GITHUB_USER
+          read -p "Enter your github repository [ex: lilo]: " GITHUB_REPO
           git clone https://github.com/$GITHUB_USER/$GITHUB_REPO
           cp -R $GITHUB_REPO/.* /home/${username}/
           rm -fr $GITHUB_REPO
