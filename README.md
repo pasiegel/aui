@@ -1,6 +1,6 @@
 
 
-# Arch linux Ultimate Install
+# Arch linux Ultimate Install Script
 
 Install and configure arch linux
 
