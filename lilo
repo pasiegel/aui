@@ -3489,7 +3489,7 @@ clean_orphan_packages(){
 #RECONFIGURE SYSTEM {{{
 reconfigure_system(){
   print_title "KEYMAP - https://wiki.archlinux.org/index.php/KEYMAP"
-  print_info "The KEYMAP variable is specified in the /etc/rc.conf file. It defines what keymap the keyboard is in the virtual consoles. Keytable files are provided by the kbd package."
+  print_info "The KEYMAP variable is specified in the /etc/rc.conf file. It defines what keymap the keyboard is in the virtual consoles. ex: en-us"
   OPTION=n
   while [[ $OPTION != y ]]; do
     getkeymap
