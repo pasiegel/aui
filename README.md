@@ -11,7 +11,10 @@ Install and configure arch linux
 - Logged in as 'root'
 - generous amounts of patience
 
-## How to get it
+## Getting Started
+- Obtain and boot the live cd from https://www.archlinux.org/download/ for your appropriate system architecture
+- Obtain the install script
+- 
 ### With git
 - Get list of packages and install git: `pacman -Sy git`
 - get the script: `git clone git://github.com/pasiegel/aui`
