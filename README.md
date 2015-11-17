@@ -1,14 +1,15 @@
 
 
-# Archlinux Ultimate Install
+# Arch linux Ultimate Install
 
-Install and configure archlinux
+Install and configure arch linux
 
 
 ## Prerequisites
 
 - A working internet connection
 - Logged in as 'root'
+- generous amounts of patience
 
 ## How to get it
 ### With git
