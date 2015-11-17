@@ -3636,7 +3636,6 @@ do
         font_config
         install_cups
         install_additional_firmwares
-        install_git_tor
         checklist[1]=1
         ;;
       2)
