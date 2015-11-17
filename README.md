@@ -49,7 +49,7 @@ Install and configure arch linux
 - Create and configure new user
 - Install and configure sudo
 - Automatic enable services in systemd
-- Install an AUR Helper [yaourt, packer, pacaur]
+- Install an AUR Helper for building Community packages [yaourt, packer, pacaur]
 - Install systemd
 - Install Preload
 - Install Xorg
