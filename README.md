@@ -47,7 +47,6 @@ Install and configure arch linux
 - Install and configure sudo
 - Automatic enable services in systemd
 - Install an AUR Helper [yaourt, packer, pacaur]
-- Install base system
 - Install systemd
 - Install Preload
 - Install Xorg
