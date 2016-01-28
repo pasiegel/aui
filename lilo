@@ -230,14 +230,14 @@ select_user(){
               case "$REPLY" in
                 1)
                   package_install "git"
-                  git clone https://github.com/helmuthdu/vim
+                  git clone https://github.com/pasiegel/vim
                   mv vim /home/${username}/.vim
                   ln -sf /home/${username}/.vim/vimrc /home/${username}/.vimrc
                   cp -R vim /home/${username}/.vim/fonts /home/${username}/.fonts
                   ;;
                 3)
                   package_install "git"
-                  read -p "Enter your github username [ex: helmuthdu]: " GITHUB_USER
+                  read -p "Enter your github username [ex: pasiegel]: " GITHUB_USER
                   read -p "Enter your github repository [ex: vim]: " GITHUB_REPO
                   git clone https://github.com/$GITHUB_USER/$GITHUB_REPO
                   cp -R $GITHUB_REPO/.vim /home/${username}/
