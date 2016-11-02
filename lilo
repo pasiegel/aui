@@ -3601,7 +3601,7 @@ if is_package_installed "kdebase-workspace"; then KDE=1; fi
 
 while true
 do
-  print_title "ARCHLINUX U INSTALL - https://github.com/helmuthdu/aui"
+  print_title "ARCHLINUX U INSTALL - https://github.com/pasiegel/aui"
   echo " 1) $(mainmenu_item "${checklist[1]}" "Basic Setup")"
   echo " 2) $(mainmenu_item "${checklist[2]}" "Desktop Environment|Window Manager")"
   echo " 3) $(mainmenu_item "${checklist[3]}" "Accessories Apps")"
